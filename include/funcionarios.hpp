@@ -1,0 +1,4 @@
+#ifndef FUNCIONARIOS_HPP
+#define FUNCIONARIOS_HPP
+
+#endif
